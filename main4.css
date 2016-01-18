@@ -1,0 +1,28 @@
+.one{
+	background-color:yellow;
+	margin-right:10px;
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.two{
+	background-color:red;
+	margin-right:10px;
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.three{
+	background-color:yellow;
+	margin-right:10px;
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	
+}
